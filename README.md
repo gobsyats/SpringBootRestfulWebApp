@@ -3,7 +3,9 @@
 The project is built for managing products.
 Tools: Eclipse and MySQL
 
+
 The whole tutorial is available at https://www.youtube.com/watch?v=3-5e5cXfwrU
+Title: Spring Boot RESTful CRUD API Tutorial with MySQL database
 Tutrorial by: CodeJava
 Published on: Jan 8, 2020
 Accessed on: Feb 15, 2020
